@@ -1,0 +1,11 @@
+# In seconds
+time: 300
+
+# Recommended not to change this but if you need to change it it count down 60 seconds to 0.
+time_chat: [60, 30, 20, 15, 10, 5, 4, 3, 2, 1]
+
+# The message warning the player that there will be a clear lag happening.
+msg: "§f[§9ClearLagPE§f] A clearlagg will be carried out in §e{time} §fseconds!"
+
+# The message after the clear lag has happened.
+msg_: "§f[§9ClearLagPE§f] A clearlagg has been carried out! A total of §e{count}§f entities have been deleted!"
